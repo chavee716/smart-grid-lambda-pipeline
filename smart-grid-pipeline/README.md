@@ -152,8 +152,6 @@ Postgres to be running.
   scored on; it is included in the schema for extensibility (see report
   limitations).
 
-## Individual contributions
+## Contributions
 
-_(For group submissions: replace this section with a short statement of
-who worked on which component — ingestion, processing, storage/serving,
-observability, or report — per the submission guidelines.)_
+- Completed individually by EG/2021/4479 Dias C.
