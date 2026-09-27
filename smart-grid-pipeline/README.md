@@ -154,4 +154,4 @@ Postgres to be running.
 
 ## Contributions
 
-- Completed individually by EG/2021/4479 Dias C.
+- Done by EG/2021/4479 Dias C.
